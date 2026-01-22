@@ -115,13 +115,13 @@ class PedroVarela:
 - Coordinated with UNAH and multiple government institutions
 - Technologies: `Python` `Django` `PostgreSQL` `Data Analytics`
 
-### ⚖️ SIPNADH - Inter-American Human Rights Platform (GIZ)
+### ⚖️  Inter-American Human Rights Platform (GIZ)
 **Web platform for systematizing Inter-American Human Rights information**
 - Designed system architecture for human rights jurisprudence management
 - Advanced search engine with dynamic filters
 - Technologies: `Python` `JavaScript` `PostgreSQL` `Nginx`
 
-### 🔗 SIPNADH/SIMOREH Integration - European Union ProDerechos
+### 🔗 European Union ProDerechos
 **Integration of Universal and Inter-American HR Systems**
 - Updated and integrated national human rights monitoring systems
 - Incorporated ODS and Government Plan 2022-2026 recommendations
@@ -130,11 +130,10 @@ class PedroVarela:
 ### 📊 Human Rights Observatory (ODH) - USAID Project
 **Data visualization and collection platform**
 - Web and mobile apps for human rights data in Honduras
-- Live at: [https://odh.sedh.gob.hn](https://odh.sedh.gob.hn)
 - Technologies: `Python` `JavaScript` `PostgreSQL` `Mobile Development`
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -146,7 +145,7 @@ class PedroVarela:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=consultorvarela&theme=tokyonight&hide_border=true)
 
 </div>
-
+-->
 ---
 
 ## 🎓 Recent Certifications (2025-2026)
