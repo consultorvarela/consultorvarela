@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Software Architect** with **9+ years of experience** leading high-impact technology projects for prestigious international organizations and governments across Latin America. Currently serving as a **consultant for the Inter-American Development Bank (IDB)** in the Gender and Diversity Division.
+I'm a **Full Stack Software Architect** with **9+ years of experience** leading high-impact technology projects for prestigious international organizations and governments across Latin America. 
 
 ### 💡 What I Do
 
